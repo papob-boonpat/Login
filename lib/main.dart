@@ -107,7 +107,7 @@ class _LoginPageState extends State<LoginPage> {
                       Container(
                         margin: EdgeInsets.all(20),
                         child: Text(
-                          "Login App",
+                          "Logins App",
                           style: TextStyle(color: _headingColor, fontSize: 16),
                         ),
                       ),
